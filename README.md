@@ -14,6 +14,10 @@ Callosum is an open-source self-balancing distributed services protocol implemen
 
   * [callosum-server-tcp](https://github.com/tristanls/callosum-server-tcp): Callosum TCP Server.
 
+### Internal
+
+  * [callosum-server-slots](https://github.com/tristanls/callosum-server-slots): Server slot management for Callosum.
+
 ## Sources
 
   * [Boxcar: A self-balacing distributed services protocol](http://engineering.indeed.com/blog/2012/12/boxcar-self-balancing-distributed-services-protocol/)
