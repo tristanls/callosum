@@ -1,0 +1,21 @@
+{
+  "name": "callosum",
+  "version": "0.0.0",
+  "description": "Self-balancing distributed services protocol",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/callosum.git"
+  },
+  "keywords": [
+    "self-balancing",
+    "distributed",
+    "services",
+    "protocol"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
