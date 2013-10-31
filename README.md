@@ -10,6 +10,10 @@ Callosum is an open-source self-balancing distributed services protocol implemen
 
 ## Available Modules
 
+### Client Rovers
+
+  * [callosum-client-tcp-rover](https://github.com/tristanls/callosum-client-tcp-rover): Callosum TCP Client rover.
+
 ### Servers
 
   * [callosum-server-tcp](https://github.com/tristanls/callosum-server-tcp): Callosum TCP Server.
