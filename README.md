@@ -29,4 +29,4 @@ Callosum is an open-source self-balancing distributed services protocol implemen
 ## Sources
 
   * [Boxcar: A self-balacing distributed services protocol](http://engineering.indeed.com/blog/2012/12/boxcar-self-balancing-distributed-services-protocol/)
-  * [@IndeedEng: Boxcar: A self-balancing distributed services protocol](https://engineering.indeed.com/blog/2013/10/october30-indeedeng-talk/)
+  * [@IndeedEng: Boxcar: A self-balancing distributed services protocol](https://engineering.indeed.com/blog/2013/11/indeedeng-boxcar-a-self-balancing-distributed-services-protocol-slides-video/)
